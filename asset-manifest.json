@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-auth0/static/css/main.ce5a5663.chunk.css",
+    "main.js": "/react-auth0/static/js/main.04dd7af4.chunk.js",
+    "main.js.map": "/react-auth0/static/js/main.04dd7af4.chunk.js.map",
+    "runtime-main.js": "/react-auth0/static/js/runtime-main.1b6461b5.js",
+    "runtime-main.js.map": "/react-auth0/static/js/runtime-main.1b6461b5.js.map",
+    "static/css/2.11829350.chunk.css": "/react-auth0/static/css/2.11829350.chunk.css",
+    "static/js/2.a5f4bd0d.chunk.js": "/react-auth0/static/js/2.a5f4bd0d.chunk.js",
+    "static/js/2.a5f4bd0d.chunk.js.map": "/react-auth0/static/js/2.a5f4bd0d.chunk.js.map",
+    "index.html": "/react-auth0/index.html",
+    "precache-manifest.fcc939d419963f3f4e276242f8f5d265.js": "/react-auth0/precache-manifest.fcc939d419963f3f4e276242f8f5d265.js",
+    "service-worker.js": "/react-auth0/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/react-auth0/static/css/2.11829350.chunk.css.map",
+    "static/css/main.ce5a5663.chunk.css.map": "/react-auth0/static/css/main.ce5a5663.chunk.css.map",
+    "static/js/2.a5f4bd0d.chunk.js.LICENSE.txt": "/react-auth0/static/js/2.a5f4bd0d.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/react-auth0/static/media/teeLogin.506f608b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b6461b5.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.a5f4bd0d.chunk.js",
+    "static/css/main.ce5a5663.chunk.css",
+    "static/js/main.04dd7af4.chunk.js"
+  ]
+}
